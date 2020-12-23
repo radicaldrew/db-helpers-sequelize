@@ -1,0 +1,11 @@
+require('./docker_start');
+require('./create-test-db');
+require('./voip-carriers');
+require('./account');
+require('./teams');
+require('./lookup-auth');
+require('./sip-gateways');
+require('./app');
+require('./lcr');
+require('./add-sbc-address');
+require('./docker_stop');
